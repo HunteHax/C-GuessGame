@@ -62,7 +62,7 @@ namespace PE3_new
             else
             {
 
-                lblResult.Text = " You got it... You Won! ";
+                lblResult.Text = " You got the right number... You Won! ";
 
 
                 this.BackColor = System.Drawing.Color.Gold;
